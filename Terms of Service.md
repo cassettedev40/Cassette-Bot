@@ -1,0 +1,150 @@
+Cassette Bot – Terms of Service
+
+Effective Date: [Insert Date]
+
+By using Cassette ("the Bot"), you ("the User") agree to comply with and be bound by these Terms of Service. If you do not agree with these terms, you are not permitted to use the Bot.
+
+
+---
+
+1. Use of the Bot
+
+By adding or using Cassette in your server, you agree to use it responsibly and in accordance with these Terms. Cassette provides multiple features, including music playback, giveaways, user profiles, and server statistics.
+
+
+---
+
+2. Acceptable Use
+
+You agree to:
+
+Use the Bot only for lawful and appropriate purposes.
+
+Avoid actions that may harm, disrupt, or interfere with the functionality of the Bot or any server using it.
+
+Refrain from engaging in any behavior that violates Discord’s Community Guidelines or Terms of Service.
+
+
+You are solely responsible for the actions of users in your server and their interactions with Cassette.
+
+
+---
+
+3. Features and Services
+
+Cassette currently provides the following features (subject to updates or modifications):
+
+Music Commands
+
+autoplay, clear, grab, join, leave, loop, nowplaying, pause, play, previous, queue, radio, rejoin, remove, resume, search, seek, shuffle, similar, skip, stop, volume.
+
+Configuration Commands
+
+buy, config, ignore, prefix, premium, preset, profile, redeem.
+
+Filter Commands
+
+enhance, filter, optimize.
+
+Giveaway Commands
+
+gend, gpause, greroll, gresume, gstart.
+
+Information Commands
+
+afk, announcement, avatar, balance, banner, botinfo, help, invite, membercount, nickname, ping, purge, purgebots, purgecontants, purgeuser, report, serverinfo, stats, support, translate, uptime, userinfo, voicecontrol, vote.
+
+
+---
+
+4. User Responsibilities
+
+Command Usage: Use commands appropriately. Repeated spam or misuse may result in temporary or permanent restrictions.
+
+Respect for Others: Do not use Cassette to harass, abuse, or disturb other users or server operations.
+
+Data Compliance: Users must comply with all applicable data protection and privacy laws when using the Bot.
+
+
+
+---
+
+5. Privacy
+
+Please review our Privacy Policy for detailed information about how Cassette collects, stores, and uses user data.
+
+
+---
+
+6. Modifications and Updates
+
+Cassette’s features and Terms of Service may be updated or modified at any time. Any significant changes will be communicated through the Bot or the official support server.
+Continued use of the Bot after changes indicates your acceptance of the updated Terms.
+
+
+---
+
+7. Termination
+
+We reserve the right to suspend or permanently disable access to Cassette for users or servers that:
+
+Violate these Terms of Service.
+
+Engage in abusive or malicious behavior.
+
+Use the Bot in a manner deemed inappropriate or harmful.
+
+
+
+---
+
+8. Limitation of Liability
+
+Cassette is provided “as is”, without any warranties, express or implied. We are not responsible for:
+
+Downtime, technical issues, or service interruptions.
+
+Loss of data or damage arising from the use or inability to use the Bot.
+
+
+Use of the Bot is entirely at your own risk.
+
+
+---
+
+9. Indemnity
+
+You agree to indemnify and hold harmless the Bot developers, contributors, and affiliates from any claims, damages, or liabilities arising from your use or misuse of Cassette.
+
+
+---
+
+10. Disclaimer
+
+We do not guarantee uninterrupted or error-free service. Cassette’s availability and performance may vary, and updates or maintenance may occur without prior notice.
+We reserve the right to modify, suspend, or discontinue the Bot at any time.
+
+
+---
+
+11. Third-Party Services
+
+Cassette relies on third-party platforms such as Discord’s API for operation. These services are governed by their own terms and privacy policies, and we are not responsible for their actions or policies.
+
+
+---
+
+12. Governing Law
+
+These Terms of Service are governed by and construed in accordance with the laws of the jurisdiction in which the Bot developers reside, without regard to conflict of law principles.
+
+
+---
+
+13. Contact Information
+
+For any questions, concerns, or issues related to Cassette or these Terms, please contact us at:
+
+Email: ownerarex@gmail.com
+Support Server: https://dsc.gg/cassettesupport
+
